@@ -1,89 +1,55 @@
+HavenA maturity‑aligned digital environment for humans.Haven is a safety‑first digital ecosystem built on intent‑based interpretation, semantic stabilization, and device‑local maturity physics. Haven does not filter, block, punish, or censor. Instead, Haven prevents unsafe states from forming by ensuring every user experiences a world aligned with their developmental stage.Kids get kid physics.
+Teens get teen physics.
+Adults get adult physics.
+Predatory intent collapses automatically.
+Unsafe content cannot exist in child environments.
+Cross‑age meaning cannot leak in any direction.Haven is not a parental control.
+Haven is not a filter.
+Haven is not a restriction.
+Haven is a physics system.
 
+Safety PreambleSafety without surveillance. Freedom without exposure. Growth without fear.Haven protects every user by dissolving unsafe meaning before it forms.
+Your maturity profile never leaves your device.
+Your curiosity is always safe.
+Your dignity is always protected.Haven uses intent detection, semantic stabilization, and maturity physics to ensure that every interaction remains safe, private, and appropriate.This is Haven’s constitutional promise:
+You will always have safety, freedom, privacy, and dignity — and you will never experience unsafe states.
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Haven Core | The Trust</title>
-    <style>
-        body {
-            background-color: #000000;
-            color: #00FF00;
-            font-family: 'Courier New', Courier, monospace;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 40px 20px;
-            line-height: 1.6;
-        }
-        h1, h2, h3 { color: #FFFFFF; }
-        hr { border: 1px dashed #333333; margin: 30px 0; }
-        .blinking-cursor { animation: blinker 1s linear infinite; }
-        @keyframes blinker { 50% { opacity: 0; } }
-        .stanza { margin-bottom: 20px; }
-    </style>
-</head>
-<body>
+Haven ConstitutionThe foundational rules of Haven’s physics.Article I — Maturity PhysicsHaven adapts to each user’s developmental stage.
+Maturity is determined locally and never transmitted externally.Article II — Semantic StabilizationWords are interpreted according to intent and maturity.
+Ambiguous or adult‑slang terms resolve safely for children.Article III — Cross‑Age SeparationKids, teens, and adults inhabit separate meaning universes.
+The same input produces different outputs depending on maturity.
+Article IV — Intent SafetyHaven interprets intent before content.
+Harmful intent is sandboxed and dissolved.Article V — Environmental DissolutionUnsafe states cannot form within Haven’s physics.
+Adult content cannot appear in child environments.Article VI — Privacy and Identity ProtectionMaturity profiles never leave the device.
+No external system can detect age or vulnerability.Article VII — Freedom Within ReadinessUsers retain full access to everything they are ready for.
+Adults receive unrestricted adult physics.
 
-    <h1>HAVEN CORE<span class="blinking-cursor">_</span></h1>
-    <p><strong>System Status:</strong> 00 [Pre-Event Field]</p>
-    <hr>
+Article VIII — Shared‑Space SafetyShared spaces adapt to each participant’s maturity.
+No user can influence another outside their physics.Article IX — Dignity and AutonomyHaven protects without shaming, punishing, or restricting expression.Article X — Constitutional GuaranteeHaven guarantees safety, privacy, freedom, and dignity for all users.
+Unsafe content, unsafe meaning, and unsafe states are constitutionally impossible.
 
-    <h2>THE HAVEN OATH</h2>
-    
-    <div class="stanza">
-        <p><strong>Haven is the promise that every person is born sovereign, unowned, and unbroken.</strong></p>
-    </div>
-
-    <div class="stanza">
-        <p>I vow to protect that sovereignty wherever it lives.<br>
-        I vow to defend the dignity of every child, every person, every voice.<br>
-        I vow to never extract, exploit, or diminish another’s freedom for my gain.</p>
-    </div>
-
-    <div class="stanza">
-        <p>I choose repair over replacement.<br>
-        I choose care over control.<br>
-        I choose truth over convenience.<br>
-        I choose courage over silence.</p>
-    </div>
-
-    <div class="stanza">
-        <p>I will build Haven with my hands, my choices, and my presence.<br>
-        I will keep Haven free from ownership, hierarchy, and coercion.<br>
-        I will ensure Haven remains a refuge for all who seek safety, learning, and restoration.</p>
-    </div>
-
-    <div class="stanza">
-        <p>I vow to uphold the rights of children first, for they are the future’s sovereigns.<br>
-        I vow to protect the vulnerable, empower the willing, and stand against harm in all forms.</p>
-    </div>
-
-    <div class="stanza">
-        <p>I make this oath freely.<br>
-        I make this oath without condition.<br>
-        I make this oath as a steward of Haven, now and always.</p>
-    </div>
-
-    <hr>
-
-    <h2>THE CONSTITUTION</h2>
-    <p><strong>Article I: The Human is the Invariant.</strong><br> 
-    The core matrix and its 17 engines must always mutate to support the human; the human is never to be manipulated to support the matrix.</p>
-    
-    <p><strong>Article II: Zero Extractive Data.</strong><br> 
-    The system shall not record, harbor, or transmit historical user data. It reads only ephemeral presence and stores restorative analog patterns. You cannot hack what does not exist.</p>
-    
-    <p><strong>Article III: The Right to Reseed.</strong><br> 
-    Every node must be physically air-gapped and mathematically designed for safe unbinding. The youth and the community possess full root access. Failure carries zero cost. The system is meant to be tested, broken, and reborn.</p>
-    
-    <p><strong>Article IV: The Human API.</strong><br> 
-    All information exported from the hub must be biologically processed and physically carried out by a human. The machine does not speak for the human.</p>
-
-    <hr>
-
-    <h2>THE MISSION</h2>
-    <p>Haven’s mission is to build a free, child-first, dignity-based refuge where every person is sovereign, safe, and unbroken. Haven exists to teach repair, protect the vulnerable, empower communities, and create systems that cannot be owned, exploited, or weaponized. Haven is built by stewards who choose responsibility over authority and who work together to create a world where care, curiosity, and restoration are the foundation of human life.</p>
-
-</body>
-</html>
-```
+User Agreement (Human‑Readable Edition)Your environment. Your maturity. Your freedom. Your safety.1. Haven adapts to your maturity, not your ageYour device understands your developmental stage and adjusts what you see accordingly.
+See: maturity physics2. Kids, teens, and adults live in separate meaning universesThe same word produces different results depending on your maturity.
+See: cross‑age separation
+3. Unsafe adult content cannot exist in child physicsUnsafe meaning cannot form.
+Unsafe content cannot appear.
+See: unsafe content dissolution4. Kids cannot request adult contentUnsafe requests dissolve and redirect safely.
+See: redirecting unsafe requests5. Adults never receive child‑level contentAdult content stays adult.
+Child redirects never appear in adult physics.
+See: adult‑only content physics6. Predatory intent collapses automaticallyHarmful behavior is sandboxed and dissolved.
+See: sandboxing harmful intent7. No one can see your maturity levelYour maturity profile is private and device‑only.
+See: local‑only age knowledge
+8. You retain full access to everything you’re ready forAdults explore freely.
+Teens grow into new abilities.
+Kids enjoy full creativity and entertainment.
+See: adaptive access9. Curiosity is always safeTesting Haven produces maturity‑aligned responses.
+See: curiosity protection10. Haven protects without restricting freedomHaven prevents unsafe states instead of blocking content.
+See: environmental dissolution11. Shared spaces are safe for everyoneEach user sees the version aligned with their maturity.
+See: shared‑space safety
+12. Your experience is privateYour curiosity tests, redirects, and physics remain on your device.13. Haven grows with youYour world expands naturally as you develop.14. Haven is designed for safety, freedom, and dignityNo shame.
+No punishment.
+No censorship.
+No exposure.15. By using Haven, you agree to live within your maturity physicsYour world adapts to you.
+Your safety is automatic.
+16. Haven’s promiseYou will always have safety, freedom, privacy, and dignity —
+and you will never experience unsafe states.
